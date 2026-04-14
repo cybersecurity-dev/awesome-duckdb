@@ -1,0 +1,2 @@
+# awesome-duckdb
+Awesome DuckDB
