@@ -1,2 +1,1 @@
-# awesome-duckdb
-Awesome DuckDB
+# Awesome [DuckDB](https://duckdb.org/)
